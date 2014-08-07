@@ -69,5 +69,5 @@ var rsvpEvent = function (meetupEvent) {
       return console.error(err);
     }
     console.log(body);
-  );
+  });
 };
