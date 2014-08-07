@@ -1,0 +1,23 @@
+{
+  "name": "meetup-rsvp",
+  "version": "0.0.0",
+  "description": "Automatic RSVP for certain meetups :) ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tjlav5/meetup-rsvp.git"
+  },
+  "author": "TJ Lavelle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjlav5/meetup-rsvp/issues"
+  },
+  "homepage": "https://github.com/tjlav5/meetup-rsvp",
+  "dependencies": {
+    "express": "^4.8.1",
+    "request": "^2.40.0"
+  }
+}
